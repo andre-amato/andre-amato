@@ -1,14 +1,12 @@
 ## Hi! 👋
 
-Full-Stack Software Developer with a proven track record in modern JavaScript/TypeScript frameworks. I have successfully developed dynamic web and mobile applications using React, React Native, and Next.js. My backend expertise includes efficiently managing server-side logic with Koa and Express, as well as optimizing data handling with both relational databases like PostgreSQL and non-relational databases like MongoDB.
+Passionate Software Engineer with a solid foundation in modern JS/TS frameworks, backed by hands-on experience building dynamic web and mobile applications. Proficient in leveraging cutting-edge technologies like React, Next.js, and backend frameworks to create robust full-stack solutions.
 
-As a dedicated problem solver who thrives in fast-paced environments, I am passionate about delivering seamless, user-friendly applications that consistently exceed client and user expectations. With a strong foundation in both frontend and backend development, I always push to excel at creating cohesive full-stack solutions.
+I consistently create intuitive, user-friendly interfaces that boost customer satisfaction and drive engagement. By converting Figma designs into responsive React and React Native components, I ensured a cohesive UX/UI that improved usability and client retention. I optimized backend efficiency by refactoring a legacy system, significantly increasing content delivery speed and reducing operational costs. Additionally, I built a new scalable backend that streamlined job postings, video uploads, and digital coin transactions, enhancing platform performance and user interaction.
 
-I am a collaborative team player with a demonstrated ability to manage code versioning and facilitate team collaboration using Git and GitHub. My commitment to continuous learning and adaptation ensures that I remain at the forefront of the ever-evolving tech landscape.
+I improved platform security and reduced unauthorized access incidents by implementing MFA and refactoring. I achieved real-time data synchronization and reduced latency by optimizing database operations and API integrations across Next.js, React Native, and Nest.js.
 
-I find joy in music, playing guitar, video games, and exploring new destinations, delving into diverse cultures and historical contexts. As a lifelong learner with a diverse range of interests, I’m always eager to expand my horizons both personally and professionally.
-
-Looking for a tech-savvy teammate to tackle the latest trends? Let’s collaborate.
+I am also adept at collaborating within Agile/Scrum teams, utilizing project management tools like Jira for sprint planning, backlog grooming, and daily standups. My extensive experience in code versioning and team coordination using GitHub, Bitbucket, and Azure DevOps guarantees smooth project delivery and effective collaboration.
 
 Tech: HTML | CSS | JavaScript | React | React Native | Next.js | Node.js | Express | Koa | MySQL | MongoDB | PostgreSQL | TypeScript | Git | GitHub
 
